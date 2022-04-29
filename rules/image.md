@@ -1,4 +1,4 @@
-# `<img>` tag
+# Img tag
 
 ## `src`
 

@@ -1,6 +1,6 @@
-# `<a>` tag
+# Anchor tag
 
-> Chỉ dùng anchor tag **khi cần điều hướng sang một page khác**. Đối với các tác vụ thực hiện hành động trong cùng một page, hãy sử dụng [[button]].
+> Chỉ dùng anchor tag **khi cần điều hướng sang một page khác**. Đối với các tác vụ thực hiện hành động trong cùng một page, hãy sử dụng [Button tag](https://viivue.github.io/a11y/rules/button).
 
 ## `href`
 

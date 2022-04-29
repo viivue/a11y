@@ -1,4 +1,4 @@
-# `<button>` tag
+# Button tag
 
 > Dùng để trigger các hành động xảy ra trong cùng một page.
 
