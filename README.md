@@ -1,12 +1,19 @@
 # Web Accessibility (a11y)
 
-Repo này sẽ là nơi lưu trữ những rules để đảm bảo A11y cho các website của team.
+Web Accessibility (hay viết tắt là a11y) là một tiêu chuẩn quan trong nhằm đảm bảo trang web đủ thân thiện với mọi người
+dùng.
 
-Mọi người có thể star repo này hoặc join vào Slack channel để nhận thông báo về các cập nhật mới.
+Mục đích của repo này được tạo ra là để tóm tắt các rules a11y thành một loại bí kíp và cung cấp đầy đủ đường dẫn chi
+tiết để đọc thêm khi cần.
 
-1. [Descriptive text](https://viivue.github.io/a11y/rules/descriptive-text)
-2. [Anchor](https://viivue.github.io/a11y/rules/anchor)
-3. [Button](https://viivue.github.io/a11y/rules/button)
-4. [Image](https://viivue.github.io/a11y/rules/image)
-5. [Headings](https://viivue.github.io/a11y/rules/headings)
-6. [Landmarks](https://viivue.github.io/a11y/rules/landmarks)
+Nếu đây là lần đầu mọi người đến đây, lời khuyên là hãy lướt qua các rules hiện có. Trong quá trình làm việc với project
+nếu có gặp issue về a11y thì hãy quay lại repo này để tham khảo.
+
+> Practices make perfect ✨
+
+Don't forget to join our [Slack channel](https://viivuedevelopers.slack.com/archives/C02Q8J2MKNJ) to receive latest
+updates.
+
+---
+
+Copyright 2022 [ViiVue](https://github.com/viivue/a11y)
