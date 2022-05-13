@@ -3,9 +3,9 @@
 > Mọi clickable elements trong trang đều phải tiếp cận được thông qua bàn phím.
 
 Một trong những yếu tố quan trọng trong Web A11y đó là hỗ trợ user sử dụng bàn phím để
-nagivate. Xem video dưới đây để thấy cách [github.com](github.com) hỗ trợ Tabindex.
+nagivate. Xem video dưới đây để thấy cách [gitlab.com](gitlab.com) hỗ trợ Tabindex.
 
-![Tabbing navigation on GitHub](_resources/Screen Recording 2022-05-13 at 15.45.07.mov)
+![](_resources/gitlab-tabbing-demo.gif)
 
 Bấm `Tab` để tiến, `Shift + Tab` để lùi, `Enter` để click, `Space` để toggle.
 

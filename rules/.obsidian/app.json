@@ -3,5 +3,6 @@
   "livePreview": true,
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "/_resources"
+  "attachmentFolderPath": "/_resources",
+  "useMarkdownLinks": true
 }
